@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "packs": [
+    {
+      "id": "ciencia_basica",
+      "title": "Ciencia Básica",
+      "description": "Fundamentos científicos para todos",
+      "questionCount": 3,
+      "icon": "microscope",
+      "version": 1.0,
+      "isPremium": false,
+      "url": "https://raw.githubusercontent.com/JimScope/factsy-packs/main/packs/ciencia_basica.json"
+    },
+    {
+      "id": "historia_mundial",
+      "title": "Historia Mundial",
+      "description": "Eventos que cambiaron el mundo",
+      "questionCount": 2,
+      "icon": "building.columns",
+      "version": 1.0,
+      "isPremium": false,
+      "url": "https://raw.githubusercontent.com/JimScope/factsy-packs/main/packs/historia_mundial.json"
+    }
+  ]
+}
