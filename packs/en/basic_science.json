@@ -2,18 +2,21 @@
   "id": "ciencia_basica",
   "questions": [
     {
+      "id": 1,
       "questionText": "¿Cuál es el elemento químico más abundante en el universo?",
       "options": ["Oxígeno", "Carbono", "Hidrógeno", "Helio"],
       "correctAnswerIndex": 2,
       "explanation": "El hidrógeno representa aproximadamente el 75% de toda la materia normal del universo."
     },
     {
+      "id": 2,
       "questionText": "¿Qué planeta es conocido como el Planeta Rojo?",
       "options": ["Júpiter", "Marte", "Venus", "Saturno"],
       "correctAnswerIndex": 1,
       "explanation": "Marte es conocido como el Planeta Rojo debido a la gran cantidad de óxido de hierro en su superficie."
     },
     {
+      "id": 3,
       "questionText": "¿Cuántos huesos tiene el cuerpo humano adulto?",
       "options": ["198", "206", "215", "189"],
       "correctAnswerIndex": 1,
