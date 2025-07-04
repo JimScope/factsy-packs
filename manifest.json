@@ -10,7 +10,8 @@
       "version": 1.0,
       "isPremium": false,
       "urls": [
-        "es"
+        "es",
+        "en"
       ]
     }
   ]
